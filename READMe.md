@@ -33,7 +33,7 @@ cd desafio-JGL
 ```
 
 ### 1. Instalar Dependências
-Certifique-se de ter o Node.js instalado.
+Certifique-se de ter o Node.js 20 instalado.
 ```bash
 npm install
 ```
